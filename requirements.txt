@@ -1,0 +1,7 @@
+streamlit
+transformers
+whisper
+beautifulsoup4
+requests
+PyMuPDF  # for better PDF extraction
+pdfplumber  # alternative PDF parser
